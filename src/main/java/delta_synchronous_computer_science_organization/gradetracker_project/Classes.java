@@ -9,5 +9,7 @@ package delta_synchronous_computer_science_organization.gradetracker_project;
  * @author Blackstone
  */
 public class Classes {
-    
+    public String className;
+    public double creditHours;
+    public Grades studentGrades; //We should have a list of values. This is what is going to go in the graph. I think.
 }
