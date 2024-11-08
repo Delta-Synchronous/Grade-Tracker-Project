@@ -9,5 +9,7 @@ package delta_synchronous_computer_science_organization.gradetracker_project;
  * @author Blackstone
  */
 public class Grades {
+    // We are probably going to deprecate this class 
+    
     
 }

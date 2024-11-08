@@ -12,4 +12,6 @@ public class Student {
     public String first_name;
     public String last_name;
     public enum classification{};
+    public Classes studentclass; //We should convert this to a list that is able to grow
+    public Grades studentgrades; //Not sure if this should be here
 }
